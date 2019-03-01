@@ -14,21 +14,27 @@ In each week's folder, there are 3 other folders:
 
 ### Week 1: Intro to Vision
 
-
+. | Pets-1
+--- | ---
+__Original__ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CryptoSoc/fastai-lessons/blob/master/week_1/original/lesson1-pets.ipynb)
+__Guided__ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CryptoSoc/fastai-lessons/blob/master/week_1/guided_nbs/lesson1-pets.ipynb)
+__Hinted__ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CryptoSoc/fastai-lessons/blob/master/week_1/hinted_nbs/lesson1-pets.ipynb)
 
 ## FAQ
 
 ### What workflow should I use?
+------
 
-My recommendation is to watch the lecture and just take some notes. After watching the lectures, go through the notebooks that Jeremy works through. Those can be found in the XXX folder. Get involved in the code in this step - use the tab completion, look at the docs, change some numbers and see what happens. Make sure you understand more or less whats going on.
+My recommendation is to watch the lecture and just take some notes. After watching the lectures, go through the notebooks that Jeremy works through. Those can be found in the `original` folder for that week. Get involved in the code in this step - use the tab completion, look at the docs, change some numbers and see what happens. Make sure you understand more or less what's going on.
 
-After this, depending on your level of comfort with the course, you can reimplement the notebook.
+After this, depending on your level of comfort with the course, you can reimplement the notebook:
 
-- If you're feeling unsure about the code and can't remember too much, look at the XXX folder. This notebook will guide you through recreating the lesson's results and why we do it.
-- If you are more confident but want some guidance, look in the XXX folder for the week. This notebook will lead you through the lesson with some hints and places to look.
+- If you're feeling unsure about the code and can't remember too much, look at the `guided_nbs` folder. This notebook will guide you through recreating the lesson's results and why we do it.
+- If you are more confident but want some guidance, look in the `hinted_nbs` folder for the week. This notebook will lead you through the lesson with some hints and places to look.
 - If you're confident, implement the lesson from a blank notebook. Import `fastai` and go through the week's application using either your own data or data from the library as best as you can.
 
 ### How should I get set up with a GPU?
+------
 
 There are several different options you can use and different providers offer different machine configurations and different user interfaces. The other meaningful difference is pricing. We suggest to go with the one you find easier to use (if you already have an account) or set-up (if not). Try Colab if you're just warming up and then try another.
 

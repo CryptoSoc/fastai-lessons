@@ -14,7 +14,7 @@ In each week's folder, there are 3 other folders:
 
 ### Week 1: Intro to Vision
 
- | Pets-1
+| | Pets-1 |
 --- | ---
 __Original__ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CryptoSoc/fastai-lessons/blob/master/week_1/original/lesson1-pets.ipynb)
 __Guided__ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CryptoSoc/fastai-lessons/blob/master/week_1/guided_nbs/lesson1-pets.ipynb)
@@ -22,8 +22,8 @@ __Hinted__ | [![Open In Colab](https://colab.research.google.com/assets/colab-ba
 
 ### Week 2: More Vision
 
- | SGD | Download Data
---- | ---
+|  | SGD | Download Data |
+--- | --- | ---
 __Original__ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CryptoSoc/fastai-lessons/blob/master/week_2/original/lesson2-sgd.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CryptoSoc/fastai-lessons/blob/master/week_2/original/lesson2-download.ipynb)
 
 ## FAQ
